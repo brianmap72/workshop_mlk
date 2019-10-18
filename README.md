@@ -9,3 +9,6 @@ https://matplotlib.org
 #https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy/blob/master/Predictive%20Maintenance%20using%20Machine%20Learning.ipynb
 
 and more to be added before the end of Oct 2019
+
+
+Telemetry zip file: https://drive.google.com/file/d/12btsYGIYF4TPIqpAAkud0pyCXmz7cJUP/view?usp=sharing
